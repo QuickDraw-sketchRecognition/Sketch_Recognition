@@ -1,6 +1,6 @@
 # Doodling with Deep Learning!
 
-### This is the Repo of our Quick Draw Kaggel Competition Project.<br>
+### This is the Repo of our Quick Draw Kaggle Competition Project.<br>
 ### We present our data preprocessing, models fittings, and a fun application of the Google Quick, Draw! dataset. This project  was built by Akhilesh Reddy, Vincent Kuo, Kirti Pande, Tiffany Sung, and Helena Shi. To see the full walk-through, find our blog post at: __blog__
 
 #### Walk with us through this journey to see how we have tackled the challenge in successfully classifying what is “arguably the world’s cutest research dataset!”    
