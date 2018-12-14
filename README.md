@@ -10,23 +10,23 @@
 **Shuffle_CSV_and_ResNet** folder:  includes data pre-processing/shuffle csv code and the ResNet model we tried.<br>
 **Mobile_net** folder:  includes the LSTM and Mobile Net model code.<br>
 **OtherModels** folder: we tried some skicit learn classifiers for instance Random Forest, k-NN and MLP Classifier.<br>
-**QuickDraw** folder: One can replicate the application we created by running the QuickDrawApp.py code. Also, download the CNN model from the following link: https://drive.google.com/open?id=1PAFXI5HrY7HguZy0I8yDaUQUebTQYus0 and save in the same location as the folder.
+**QuickDraw** folder: One can replicate the application we created by running the QuickDrawApp.py code. Also, download the CNN model from the following link: https://drive.google.com/open?id=1PAFXI5HrY7HguZy0I8yDaUQUebTQYus0 and save in the same location as the folder.<br>
 The model is trained for 15 classes:
-Donut 🍩
-Eye 👁
-Tent ⛺
-Bicycle 🚲
-Flower 🌸
-Mermaid 🧜‍
-Snake 🐍
-Camera 📷
-Pineapple 🍍
-Rainbow 🌈
-Lipstick 💄
-Face 😊
-Shoe 👠 
-Cup ☕
-Hockey stick 🏑
+Donut 🍩 <br>
+Eye 👁<br>
+Tent ⛺<br>
+Bicycle 🚲<br>
+Flower 🌸<br>
+Mermaid 🧜‍<br>
+Snake 🐍<br>
+Camera 📷<br>
+Pineapple 🍍<br>
+Rainbow 🌈<br>
+Lipstick 💄<br>
+Face 😊<br>
+Shoe 👠 <br>
+Cup ☕<br>
+Hockey stick 🏑 <br>
 
 A preview of the application is as follows: 
 ![](quickdrawgif.gif)
